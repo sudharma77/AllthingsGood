@@ -1,0 +1,123 @@
+::after,
+ ::before {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    justify-content: center;    
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    
+    
+}
+
+.Dupes {
+    width: 358px;
+    height: 61px;
+    
+    top: 102px;
+    font-family: 'Clash Display';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 30px;
+    color: #333333;
+}
+
+.images {
+    width: 358px;
+    height: 192px;
+    margin-right: 16px;
+    top: 183px;
+    border-radius: 15px;
+}
+
+main {
+    width: 90vw;
+    max-width: 360px;
+    margin: 5rem auto;
+}
+
+.button1{
+    background: linear-gradient(89.76deg, #2ABB40 0.16%, #4BD155 99.83%);
+    border-radius: 100px;
+    width: 250px;
+    height: 40px;
+    /* left: 124px;
+    top: 416px; */
+    font-family: 'Clash Display';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    color: #FFFFFF;
+    
+
+}
+
+.btn1 {
+    /* position: absolute; */
+
+    width: 163px;
+    height: 33px;
+    left: 124px;
+    top: 416px;
+    font-family: 'Clash Display';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 34px;
+    line-height: 17px;
+    color: #FFFFFF;
+}
+
+.setCenter{
+    margin-top:22px ;
+    justify-content: center;
+    display: flex;
+    text-align: center;
+    align-items: center;
+}
+
+.section {
+	width: 90vw;
+	margin: 0 auto;    
+	max-width: 1127px;
+  }
+
+  .Tag-Product{
+    width: 207px;
+    height: 30px;
+    /* left: 16px;
+    top: 475px; */
+    margin-top: 70px;
+    
+    font-family: 'Clash Display';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 30px;
+    color: #000000;
+  }
+
+  
+  
+
+  
+
+  .AccordionFont{
+    /* position: absolute;
+    left: 4.1%;
+    right: 35.38%;
+    top: 17.53%;
+    bottom: 81.92%; */
+    
+    font-family: 'Clash Display';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;    
+    color: #333333;
+    
+  }

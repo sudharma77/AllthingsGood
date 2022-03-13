@@ -1,0 +1,15 @@
+.Accord1{
+    /* background-color: aqua; */
+    border-left-color: transparent;
+    border-right-color:transparent;
+}
+.Accord{
+    
+    width: 360px;
+    margin-right: 5px;
+    
+    /* height: 0px; */
+    /* left: 0px;
+    top: 525px; */
+    border: 1px solid #F2F2F2;
+  }

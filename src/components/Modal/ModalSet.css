@@ -1,0 +1,31 @@
+.ModalDiv{
+    width: 353px;
+    height: 752px;  
+    border-radius: 15px;    
+    margin: 50px auto;
+    background-color:#cf8585;    
+}
+
+.smt{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+/* .modal{
+    width: 400px;
+} */
+.ModalMainDiv{  
+    
+    /* background-color:rgba(0, 0, 0, 0.575); */
+    overflow: scroll;
+    scrollbar-width: none; /* Firefox */
+    -ms-overflow-style: none;  /* Internet Explorer 10+ */
+}
+
+
+
+.ModalMainDiv::-webkit-scrollbar { /* WebKit */
+    width: 0;
+    height: 0;
+}
